@@ -1,5 +1,5 @@
-# android-knowledge
-Android知识库，持续更新～
+# tech-knowledge
+技术知识库，持续更新～
 
 * UI
 * 性能
