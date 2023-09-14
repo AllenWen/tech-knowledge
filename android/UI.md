@@ -74,3 +74,18 @@
 * [CoordinatorLayout嵌套CoordinatorLayout的滑动处理](https://stackoverflow.com/questions/34181372/coordinatorlayout-inside-another-coordinatorlayout)
 * [解决CoordinateLayout+AppbarLayout+Tablayout+Viewpager不能滑动问题](https://blog.csdn.net/qq_41056581/article/details/80929807)
 * [自定义Behavior防抖动](https://github.com/yangchong211/YCBlogs/blob/master/android/08.%E5%A4%8D%E6%9D%82%E6%8E%A7%E4%BB%B6/02.%E8%87%AA%E5%AE%9A%E4%B9%89Behavior%E9%98%B2%E6%8A%96%E5%8A%A8.md)
+*[ 附：Android嵌套滚动(NestedScrolling)总结](https://blog.csdn.net/etwge/article/details/88689921)
+
+### 滚动选择器PickerView
+* [滚动选择器PickerView](https://blog.csdn.net/zhongkejingwang/article/details/38513301)
+
+### 导航悬停分组索引列表
+* [SuspensionIndexBar](https://github.com/mcxtzhang/SuspensionIndexBar)
+* [自己写的IndexBar + StickySectionDecoration](https://gist.github.com/AllenWen/cfd231bd1e8664d5e64a6e8b14a742de)
+* [实现stickyHeader效果](https://www.jianshu.com/p/3221b5c8fc38)
+
+### TextView中不同大小字体垂直居中
+* [TextView中不同大小字体如何上下垂直居中](https://blog.csdn.net/u010983881/article/details/53995020)
+
+### 自定义View
+* [自定义View系列](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/README.md)
