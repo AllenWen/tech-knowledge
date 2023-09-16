@@ -78,10 +78,14 @@
 * 使用runOnUiThread(action)方法
 * 使用Handler的post(Runnable r)方法
 
+### 自定义View
+
+* [自定义View系列](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/README.md)
+
 ### 实现可展开收起的多行文本
 
+* **[自己写的SuffixTextView](https://gist.github.com/AllenWen/fd7baa3cce4f56517b7155b015a2adec)**
 * [android ExpandableTextView-自定义可以动态展开/收缩显示长文本的TextView](https://www.jianshu.com/p/068c341883d8)
-* [自己写的SuffixTextView](https://gist.github.com/AllenWen/fd7baa3cce4f56517b7155b015a2adec)
 
 ### CoordinatorLayout相关问题
 
@@ -102,14 +106,10 @@
 
 ### 导航悬停分组索引列表
 
+* **[自己写的IndexBar + StickySectionDecoration](https://gist.github.com/AllenWen/cfd231bd1e8664d5e64a6e8b14a742de)**
 * [SuspensionIndexBar](https://github.com/mcxtzhang/SuspensionIndexBar)
-* [自己写的IndexBar + StickySectionDecoration](https://gist.github.com/AllenWen/cfd231bd1e8664d5e64a6e8b14a742de)
 * [实现stickyHeader效果](https://www.jianshu.com/p/3221b5c8fc38)
 
 ### TextView中不同大小字体垂直居中
 
 * [TextView中不同大小字体如何上下垂直居中](https://blog.csdn.net/u010983881/article/details/53995020)
-
-### 自定义View
-
-* [自定义View系列](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/README.md)
