@@ -20,14 +20,6 @@
 * ConstraintProperties, 流式api修改熟悉
 * **[MotionLayout](https://blog.csdn.net/knight1996/article/details/108015536)**
 
-### 播放视频的方式
-
-* Intent + ACTION_VIEW
-* VideoView
-* MediaPlayer + SurfaceView
-* H5 + WebView
-* 三方库
-
 ### 实现图片圆角方式
 
 * CardView
@@ -109,7 +101,3 @@
 * **[自己写的IndexBar + StickySectionDecoration](https://gist.github.com/AllenWen/cfd231bd1e8664d5e64a6e8b14a742de)**
 * [SuspensionIndexBar](https://github.com/mcxtzhang/SuspensionIndexBar)
 * [实现stickyHeader效果](https://www.jianshu.com/p/3221b5c8fc38)
-
-### TextView中不同大小字体垂直居中
-
-* [TextView中不同大小字体如何上下垂直居中](https://blog.csdn.net/u010983881/article/details/53995020)
