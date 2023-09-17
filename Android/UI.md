@@ -63,28 +63,16 @@
    android:focusableInTouchMode="true"`
 2. `android:descendantFocusability="blocksDescendants"`
 
-### 异步更新ui方式
-
-* 使用Handler消息传递机制
-* 使用AsyncTask异步任务
-* 使用runOnUiThread(action)方法
-* 使用Handler的post(Runnable r)方法
-
 ### 自定义View
 
 * [自定义View系列](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/README.md)
-
-### 实现可展开收起的多行文本
-
-* **[自己写的SuffixTextView](https://gist.github.com/AllenWen/fd7baa3cce4f56517b7155b015a2adec)**
-* [android ExpandableTextView-自定义可以动态展开/收缩显示长文本的TextView](https://www.jianshu.com/p/068c341883d8)
 
 ### CoordinatorLayout相关问题
 
 * [android CoordinatorLayout使用](https://blog.csdn.net/xyz_lmn/article/details/48055919)
 * [CoordinatorLayout 完全解析](https://www.jianshu.com/p/4a77ae4cd82f)
 * [CoordinatorLayout嵌套CoordinatorLayout的滑动处理](https://stackoverflow.com/questions/34181372/coordinatorlayout-inside-another-coordinatorlayout)
-* [解决CoordinateLayout+AppbarLayout+Tablayout+Viewpager不能滑动问题](https://blog.csdn.net/qq_41056581/article/details/80929807)
+* [解决CoordinateLayout+AppbarLayout+TabLayout+Viewpager不能滑动问题](https://blog.csdn.net/qq_41056581/article/details/80929807)
 * [自定义Behavior防抖动](https://github.com/yangchong211/YCBlogs/blob/master/android/08.%E5%A4%8D%E6%9D%82%E6%8E%A7%E4%BB%B6/02.%E8%87%AA%E5%AE%9A%E4%B9%89Behavior%E9%98%B2%E6%8A%96%E5%8A%A8.md)
 
 ### NestedScroll嵌套滚动
@@ -95,9 +83,3 @@
 ### 滚动选择器PickerView
 
 * [滚动选择器PickerView](https://blog.csdn.net/zhongkejingwang/article/details/38513301)
-
-### 导航悬停分组索引列表
-
-* **[自己写的IndexBar + StickySectionDecoration](https://gist.github.com/AllenWen/cfd231bd1e8664d5e64a6e8b14a742de)**
-* [SuspensionIndexBar](https://github.com/mcxtzhang/SuspensionIndexBar)
-* [实现stickyHeader效果](https://www.jianshu.com/p/3221b5c8fc38)
